@@ -6,6 +6,9 @@ npm install
 # Run tests
 npm test
 
+# Run app
+node app.js
+
 # Task
 Create a function that takes in a number between 0-10000 and returns its Roman numeral.
 
